@@ -22,7 +22,7 @@
     "version": "yarn changelog --package && git add CHANGELOG.md"
   },
   "dependencies": {
-    "deepmerge": "^1.5.2",
+    "deepmerge": "^3.0.0",
     "javascript-stringify": "^1.6.0"
   },
   "devDependencies": {
